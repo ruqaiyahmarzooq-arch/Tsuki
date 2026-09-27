@@ -1,4 +1,4 @@
-ID,sex,Name,Age,BP,ins,BMI,results
+ID,sex,first_name,age,BP,ins,BMI,results
 01,male,ali,20,72,169.5,33.6,average
 02,female,mona,26,66,102.5,26.6,average
 03,female,nada,32,64,169.5,23.3,average
